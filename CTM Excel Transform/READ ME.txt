@@ -1,0 +1,1 @@
+To recompile the project, run "pyinstaller path/to/form_stack.spec" in the command line (or git bash terminal). It will use the form_stack.spec file to determine how to compile the executable. The finished executable will be placed in the dist folder. See documentation on PyInstaller here: https://pythonhosted.org/PyInstaller/usage.html.
